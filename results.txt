@@ -1,0 +1,10 @@
+Testing matrix size: 10x10, Time taken: 1.58e-05 seconds
+Testing matrix size: 50x50, Time taken: 0.0022384 seconds
+Testing matrix size: 100x100, Time taken: 0.0134421 seconds
+Testing matrix size: 200x200, Time taken: 0.165167 seconds
+Testing matrix size: 300x300, Time taken: 0.349883 seconds
+Testing matrix size: 400x400, Time taken: 0.782657 seconds
+Testing matrix size: 500x500, Time taken: 1.36067 seconds
+Testing matrix size: 1000x1000, Time taken: 13.671 seconds
+Testing matrix size: 1500x1500, Time taken: 48.852 seconds
+Testing matrix size: 2000x2000, Time taken: 133.78 seconds
