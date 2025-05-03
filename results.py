@@ -5,7 +5,6 @@ import matplotlib.pyplot as plt
 def read_matrix_from_file(filename):
     with open(filename, 'r') as file:
         lines = file.readlines()
-        size = map(int, lines[0])
         matrix = np.array([list(map(int, line.split())) for line in lines[1:]])
     return matrix
 
@@ -41,16 +40,16 @@ def plot_results(filename):
     
     plt.figure(figsize=(10, 6))
     plt.plot(sizes, times, marker='o')
-    plt.title("Зависимость времени от размера матрицы")
+    plt.title("График зависимости времени от размера матрицы")
     plt.xlabel("Размер матрицы (n x n)")
-    plt.ylabel("Время (секунды)")
+    plt.ylabel("Время")
     plt.grid()
-    plt.savefig("matrix_multiplication_time.png")
+    plt.savefig("graph.png")
     plt.show()
 
 
 if __name__ == "__main__":
-    matrix_sizes = [10, 50, 100, 200, 300, 400, 500, 1000, 1500, 2000]
+    matrix_sizes = [10, 50, 100, 200, 300, 400, 500, 1000, 1500, 1750, 2000]
     results = []
 
     for size in matrix_sizes:
