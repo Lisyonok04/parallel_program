@@ -1,0 +1,12 @@
+Testing with 1 threads
+Matrix size: 10x10, Time: 0.412 milliseconds
+Matrix size: 50x50, Time: 0.9452 milliseconds
+Matrix size: 100x100, Time: 11.3471 milliseconds
+Matrix size: 200x200, Time: 53.5534 milliseconds
+Matrix size: 300x300, Time: 195.219 milliseconds
+Matrix size: 400x400, Time: 548.412 milliseconds
+Matrix size: 500x500, Time: 829.854 milliseconds
+Matrix size: 1000x1000, Time: 7115.38 milliseconds
+Matrix size: 1500x1500, Time: 25125.6 milliseconds
+Matrix size: 1750x1750, Time: 43153.3 milliseconds
+Matrix size: 2000x2000, Time: 73713.9 milliseconds
