@@ -1,0 +1,6 @@
+Matrix size: 100x100, Time: 0.269 milliseconds
+Matrix size: 500x500, Time: 21.003 milliseconds
+Matrix size: 1000x1000, Time: 242.043 milliseconds
+Matrix size: 1500x1500, Time: 700.634 milliseconds
+Matrix size: 2000x2000, Time: 1845.536 milliseconds
+Matrix size: 3000x3000, Time: 6001.762 milliseconds

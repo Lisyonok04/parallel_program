@@ -1,0 +1,14 @@
+Matrix size: 50x50, Time: 3.5188 milliseconds
+Matrix size: 100x100, Time: 8.2181 milliseconds
+Matrix size: 200x200, Time: 70.5236 milliseconds
+Matrix size: 300x300, Time: 192.752 milliseconds
+Matrix size: 400x400, Time: 432.003 milliseconds
+Matrix size: 500x500, Time: 851.112 milliseconds
+Matrix size: 600x600, Time: 1442.66 milliseconds
+Matrix size: 700x700, Time: 1104.25 milliseconds
+Matrix size: 800x800, Time: 1754.69 milliseconds
+Matrix size: 900x900, Time: 2675.63 milliseconds
+Matrix size: 1000x1000, Time: 4257.41 milliseconds
+Matrix size: 1500x1500, Time: 13822.4 milliseconds
+Matrix size: 2000x2000, Time: 34362.5 milliseconds
+Matrix size: 3000x3000, Time: 118691 milliseconds
